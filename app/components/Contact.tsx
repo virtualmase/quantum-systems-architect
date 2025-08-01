@@ -51,7 +51,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-white font-medium">Email</p>
-                  <p className="text-gray-400">john@darkgemini.com</p>
+                  <p className="text-gray-400">mason@darkgemini.com</p>
                 </div>
               </div>
 
@@ -61,7 +61,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-white font-medium">Phone</p>
-                  <p className="text-gray-400">+1 (555) 123-4567</p>
+                  <p className="text-gray-400">+1 (949) 328-8792</p>
                 </div>
               </div>
 
@@ -71,7 +71,7 @@ export default function Contact() {
                 </div>
                 <div>
                   <p className="text-white font-medium">Location</p>
-                  <p className="text-gray-400">San Francisco, CA</p>
+                  <p className="text-gray-400">Denver, CO</p>
                 </div>
               </div>
             </div>
